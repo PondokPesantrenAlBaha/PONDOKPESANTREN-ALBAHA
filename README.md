@@ -10,20 +10,6 @@ Website ini dibuat untuk memperkenalkan Pondok Pesantren Al-Baha kepada masyarak
 - **Pendaftaran**: Cara bergabung dengan kami.
 - **Kontak**: Informasi kontak untuk pertanyaan dan komunikasi.
 
-## Cara Mengakses
-Situs ini dapat diakses secara langsung melalui GitHub Pages setelah diaktifkan:
-```
-https://username.github.io/pondokpesantren-albaha
-```
-Ganti `username` dengan nama akun GitHub Anda.
-
-## Cara Menjalankan Secara Lokal
-1. Unduh atau clone repository ini:
-   ```
-   git clone https://github.com/username/pondokpesantren-albaha.git
-   ```
-2. Buka file `index.html` di browser untuk melihat halaman utama.
-
 ## Struktur Folder
 - **index.html**: Halaman utama situs.
 - **styles.css**: File untuk gaya tampilan (jika tersedia).
